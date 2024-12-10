@@ -1,5 +1,3 @@
-# @todo : 
-
 # Improvements proposition for the inital font :
 
 - The omega middle bar height is to be taller.  
