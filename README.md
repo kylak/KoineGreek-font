@@ -1,6 +1,6 @@
 # @todo : 
 
-# Improvements of the inital font :
+# Improvements proposition for the inital font :
 
 - The omega middle bar height is to be taller.  
 - The two rounds of the beta are to be inversed : the small one at the top, and the big one at the bottom.
